@@ -1,6 +1,6 @@
 <div align="center">
   
-## Civanoglu - Property Listing (Laravel Project)
+## Property Listing (Laravel Project)
 
 > Technology Used : Laravel-8, Tailwind CSS, JavaScript, jQuery and MySQL Database
 </div>
@@ -20,15 +20,16 @@
 
 ## Demo
 ## Search Result Summary Demo
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/serach-result.png"/>
+<img width="429" height="326" alt="image" src="https://github.com/user-attachments/assets/5af4fd9d-521f-467c-bd3a-5b23e3e2a5bc" />
+
 
 ## Entire Properties Page
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/properties.jpg"/>
+<img width="431" height="309" alt="image" src="https://github.com/user-attachments/assets/23f3295d-e712-423e-8622-b4934d1d193c" />
+
 
 ## Entire Dashboard / Admin-Panel Page
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/Dashboard.png"/>
 
-Some screenshots can be found <a target="blank" href="https://drive.google.com/drive/folders/1WAYff_6D8BTRLvZbAFe0ZqwIXpgLU3Hf?usp=sharing">HERE</a>
+<img width="416" height="295" alt="image" src="https://github.com/user-attachments/assets/c5a881dc-97b4-436a-9dc4-8b450d13210c" />
 
 
 ## About 1st Task
@@ -68,8 +69,5 @@ Some screenshots can be found <a target="blank" href="https://drive.google.com/d
     - Design Dashboard for summery of the site
     - Show count of all items (Properties, Locations, Pages, Users and Messages) in dashboard
 
-Some screenshots can be found <a target="blank" href="https://drive.google.com/drive/folders/1WAYff_6D8BTRLvZbAFe0ZqwIXpgLU3Hf?usp=sharing">HERE</a>
 
-## Part #28
-    - Currency Converter System Added (USD(Dollar), BDT(Taka), TR(Turkish Lira))
 
